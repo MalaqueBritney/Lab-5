@@ -1,2 +1,2 @@
 # WebDesign
-          HTML file containing lesson application on css
+          A file containinglesson application for CSS.
